@@ -4,4 +4,3 @@ export {default as Footer } from './footer/Footer';
 export {default as WhatVR } from './whatVR/WhatVR';
 export {default as Header } from './header/Header';
 export {default as Futures } from './futures/Futures';
-
